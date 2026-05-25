@@ -284,6 +284,3 @@ Project:
 CareerLens AI – Intelligent Multimodal Career Recommendation System
 
 ---
-
-
-Educational use only.
