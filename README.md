@@ -94,7 +94,7 @@ CareerLensAI/
 ├── app.py
 │
 ├── data/
-│   └── career_dataset.csv
+│   └── career_recommender.csv
 │
 ├── model/
 │   └── recommender.py
@@ -131,49 +131,6 @@ Dataset includes:
 - Certifications
 - Career labels
 - Student profiles
-
----
-
-## ⚙ Installation
-
-Clone repository:
-
-```bash
-git clone https://github.com/ISHANI723/CareerLensAI.git
-```
-
-Move into project:
-
-```bash
-cd CareerLensAI
-```
-
-Create environment:
-
-```bash
-python -m venv venv
-```
-
-Activate environment:
-
-Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run project:
-
-```bash
-streamlit run app.py
-```
-
 ---
 
 ## 🎤 Multimodal Inputs
