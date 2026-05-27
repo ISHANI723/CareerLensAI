@@ -1,6 +1,6 @@
 import azure.cognitiveservices.speech as speechsdk
-SPEECH_KEY="GH80LRopeKmUREexO7NGizufj4vuNSFnneGi8dmWnAB43d0CpNPzJQQJ99CEACYeBjFXJ3w3AAAYACOGcoRK"
-REGION="eastus"
+SPEECH_KEY="xxxxx"
+REGION="xxxxx"
 
 def get_voice_text():
     speech_config = speechsdk.SpeechConfig(
