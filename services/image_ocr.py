@@ -2,8 +2,8 @@ from azure.ai.vision.imageanalysis import ImageAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.vision.imageanalysis.models import VisualFeatures
 
-VISION_KEY="ANvorZGf596sYilctc406Qbs3g4GLKLS8NwLN9kyiOAUfFmQHpJZJQQJ99CEACYeBjFXJ3w3AAAFACOGNZl5"
-VISION_ENDPOINT="https://projvision.cognitiveservices.azure.com/"
+VISION_KEY="xxxx"
+VISION_ENDPOINT="xxxx"
 
 client = ImageAnalysisClient(
 endpoint=VISION_ENDPOINT,
